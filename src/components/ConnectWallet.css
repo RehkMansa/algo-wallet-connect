@@ -1,0 +1,6 @@
+.something{
+    display: flex;
+}
+.something > *{
+    margin: 20px;
+}
